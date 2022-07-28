@@ -14,5 +14,6 @@ public class appMain {
         SpringApplication.run(appMain.class);
 
         System.out.println("1 gift!");
+        System.out.println("2 gift!");
     }
 }
