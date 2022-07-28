@@ -12,5 +12,7 @@ public class appMain {
 
     public static void main(String[] args) {
         SpringApplication.run(appMain.class);
+
+        System.out.println("1 gift!");
     }
 }
