@@ -15,5 +15,6 @@ public class appMain {
 
         System.out.println("1 gift!");
         System.out.println("2 gift!");
+        System.out.println("hot-fix gift!");
     }
 }
