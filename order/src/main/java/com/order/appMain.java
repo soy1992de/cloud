@@ -17,5 +17,6 @@ public class appMain {
         System.out.println("2 gift!");
         System.out.println("master gift!");
         System.out.println("hot-fix gift!");
+        System.out.println("master git22!");
     }
 }
